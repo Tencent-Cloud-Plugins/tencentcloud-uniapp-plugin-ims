@@ -5,11 +5,12 @@
 | ----     | ---------------- |
 | 中文名称   | 腾讯云图片内容安全（IMS）插件 |
 | 英文名称   | tencentcloud-plugin-ims |
-| 最新版本   | v1.0.0 (2020.07.16) |
+| 最新版本   | v1.0.1 (2020.11.05) |
 | 适用平台   | [DCloud uni-app](https://uniapp.dcloud.net.cn) |
 | 适用产品   | [腾讯云图片内容安全（IMS）](https://cloud.tencent.com/product/ims) |
 | GitHub项目| [tencentcloud-uniapp-plugin-ims](https://github.com/Tencent-Cloud-Plugins/tencentcloud-uniapp-plugin-ims) |
 | 主创团队   | 腾讯云中小企业产品中心（SMB Product Center of Tencent Cloud） |
+| 兼容平台   | H5、小程序、APP |
 
 一款帮助开发者在uni-app项目开发中快捷使用腾讯云图片内容安全（IMS）产品功能的插件。
 
@@ -96,14 +97,21 @@ export default {
 | ----     | ---------------- |
 | DCloud插件市场 | [腾讯云图片内容安全（IMS）插件](https://ext.dcloud.net.cn/plugin?id=2521) |
 
-## 6. GitHub版本迭代记录
+## 6. FAQ
+> 暂无
 
-### 6.1. tencentcloud-uniapp-plugin-ims v1.0.0
+## 7. GitHub版本迭代记录
+
+### 7.1. tencentcloud-uniapp-plugin-ims v1.0.1
+
+- APP端适配
+
+### 7.2. tencentcloud-uniapp-plugin-ims v1.0.0
 
 - 新增图片内容安全识别功能
 - 新增内容识别样本库新增、删除、查询功能
 
-## 7. 联系我们
+## 8. 联系我们
 
 &nbsp;&nbsp;&nbsp;扫码备注“春雨”来联络到我们</br>
-![](./images/qrcode.png)
+![](../images/qrcode.png)
